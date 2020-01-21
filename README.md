@@ -10,3 +10,6 @@ On-Time Flight Arrivals.ipynb   : Import airline arrival data into a Jupyter not
 
 
 kerasnotebook.ipynb   : Keras is a high-level neural networks API, written in Python, that runs on top of other deep learning tools such as TensorFlow. This module uses Keras to build a neural network that scores text, such as user reviews for sentiment.
+
+
+MNIST CNN demo.ipynb    : Leveraging a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST data set using the Keras module on top of TensorFlow.
